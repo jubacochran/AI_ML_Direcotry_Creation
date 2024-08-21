@@ -1,0 +1,131 @@
+<div id="kl_panel_0_content" class="kl_panel_content kl_panel_0 ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>(Part 1) Foundations of Machine Learning and AI</strong></p>
+<div class="kl_panels_wrapper kl_panels_accordion ui-accordion ui-widget ui-helper-reset" id="kl_accordion_0" role="tablist">
+<h3 id="kl_panel_16" class="kl_panel_heading kl_panel_16 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="background-color: #15284b; color: #ffffff;" role="tab" aria-controls="kl_panel_16_content" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_16"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_16"><span style="font-size: 12pt; color: #ffffff;"><strong>Module 0: Program <span>Orientation</span></strong></span></a></h3>
+<div id="kl_panel_16_content" class="kl_panel_content kl_panel_16 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_16" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Program Introduction</li>
+<li>Learning Platform Overview</li>
+<li>Introduce Yourself</li>
+<li>Program Agreement</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_2" class="kl_panel_heading kl_panel_2 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="background-color: #15284b; color: #ffffff;" role="tab" aria-controls="kl_panel_3_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_2"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_2"><span style="font-size: 12pt; color: #ffffff;"><strong>Module 1: <span>Introduction to Machine Learning</span></strong></span></a></h3>
+<div id="kl_panel_3_content" class="kl_panel_content kl_panel_3 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_2" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li>Utilize industry-standard notation and concepts</li>
+<li>Recognize discrete and continuous probability functions and their expected values</li>
+<li>Distinguish between measures of central tendency</li>
+<li>Load data into a dataframe using pandas</li>
+<li>Analyze data using selection and statistical techniques</li>
+<li>Create histograms and data visualizations</li>
+<li>Draw business conclusions from datasets and visualizations</li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activity</li>
+<li>Codio Activities</li>
+<li>Self-Study Drag-and-Drop Activity</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 class="kl_panel_heading kl_panel_4 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" id="ui-id-1" aria-controls="kl_panel_4_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#ui-id-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#ui-id-1"><span style="font-size: 12pt;"><strong><span style="color: #ffffff;">Module 2: <span>Fundamentals of Machine Learning</span></span></strong></span></a></h3>
+<div id="kl_panel_4_content" class="kl_panel_content kl_panel_4 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Analyze measures of central tendency for univariate and multivariate distributions&nbsp;</span></li>
+<li aria-level="1"><span>Create and interpret visual plots, including probability density functions, histograms, scatter plots, pair plots, and correlation matrices</span></li>
+<li aria-level="1"><span>Apply the Law of Large Numbers to a given population</span></li>
+<li aria-level="1"><span>Discuss applications of the Central Limit Theorem</span></li>
+<li aria-level="1"><span>Interpret a sample covariance matrix using Python&nbsp;</span></li>
+<li aria-level="1"><span>Approximate correlation from scatterplots</span></li>
+<li aria-level="1"><span>Identify conditional probabilities</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div class="" style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Self-Study Flashcards</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_5" class="kl_panel_heading kl_panel_5 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_5_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_5"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_5"><span style="font-size: 16px;"><strong><span style="color: #ffffff;">Module 3: <span>Introduction to Data Analysis</span></span></strong></span></a></h3>
+<div id="kl_panel_5_content" class="kl_panel_content kl_panel_5 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_5" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Discuss real-world contexts for the data science lifecycle</span></li>
+<li aria-level="1"><span>Manipulate data given a dataset</span></li>
+<li aria-level="1"><span>Generate visualizations using pandas, Seaborn, and Plotly</span></li>
+<li aria-level="1"><span>Customize plots using externally sourced documentation</span></li>
+<li aria-level="1"><span>Use pandas.groupby to manipulate data</span></li>
+<li aria-level="1"><span>Perform computations between dataframes using set index and reset index</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activity</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_6" class="kl_panel_heading kl_panel_6 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_6_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_6"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_6"><span style="font-size: 12pt;"><strong><span style="color: #ffffff;">Module 4: <span>Fundamentals of Data Analysis</span></span></strong></span></a></h3>
+<div id="kl_panel_6_content" class="kl_panel_content kl_panel_6 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_6" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Use pandas.merge to join datasets</span></li>
+<li aria-level="1"><span>Create a variety of plot types in pandas, Seaborn, and Plotly</span></li>
+<li aria-level="1"><span>Discuss the advantages and disadvantages of each plotting library</span></li>
+<li aria-level="1"><span>Perform string manipulation in pandas</span></li>
+<li aria-level="1"><span>Import and clean messy data from real-world datasets</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_7" class="kl_panel_heading kl_panel_7 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_7_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_7"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></a><a href="https://classroom.emeritus.org/courses/6063/pages/program-outline#kl_panel_7"><span style="font-size: 12pt;"><strong><span style="color: #ffffff;">Module 5: <span>Practical Application 1</span></span></strong></span></a></h3>
+<div id="kl_panel_7_content" class="kl_panel_content kl_panel_7 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_7" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Navigate files and directories using your terminal</span></li>
+<li aria-level="1"><span>Create, alter, and delete files using your terminal</span></li>
+<li aria-level="1"><span>Create .git repositories locally in your terminal</span></li>
+<li aria-level="1"><span>Create GitHub repositories online</span></li>
+<li aria-level="1"><span>Connect local .git repositories to GitHub</span></li>
+<li aria-level="1"><span>Use the add, commit, and push commands to update work in a remote repository</span></li>
+<li aria-level="1"><span>Apply exploratory data analysis, plotting, statistical summarization, and data visualization skills and techniques to a machine learning problem</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Video</li>
+<li>Discussion</li>
+<li>Self-Study Activity</li>
+<li>Practical Application Problem</li>
+</ul>
+</div>
+</div>
+<div id="kl_panel_10_content" class="kl_panel_content kl_panel_10 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></div>
+</div>
+</div>

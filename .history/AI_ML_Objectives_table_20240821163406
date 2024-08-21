@@ -1,0 +1,151 @@
+<div id="kl_panel_15_content" class="kl_panel_content kl_panel_15 ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-expanded="true" aria-hidden="false" style="display: block;">
+    <p><strong>(Part 3) Advanced Topics and Capstone</strong></p>
+    <div class="kl_panels_wrapper kl_panels_accordion ui-accordion ui-widget ui-helper-reset" id="kl_accordion_2" role="tablist">
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 18: <span>Natural Language Processing (NLP)</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li>Identify the similarities and differences between text and numerical data</li>
+    <li>Convert text data to numerical data using NLTK</li>
+    <li>Tokenize blocks of text</li>
+    <li>Decide what features to extract from a text for a particular classification purpose</li>
+    <li>Perform feature extraction using NLTK</li>
+    <li>Apply the Naive Bayes classifier</li>
+    <li>Evaluate text similarity</li>
+    <li>Perform text clustering</li>
+    <li>Compare the results of classification on text data using several models</li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Videos</li>
+    <li>Knowledge Checks</li>
+    <li>Try-It Activities</li>
+    <li>Codio Activities</li>
+    <li>Module Quiz</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 19: <span>Recommendation Systems</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li>Compute missing ratings from a rating dataset&nbsp;</li>
+    <li>Implement the Simon Funk SVD gradient descent algorithm for collaborative filtering</li>
+    <li>Evaluate the trade-off between the number of factors and model performance</li>
+    <li>Use the SURPRISE library to build and analyze recommender systems on real datasets</li>
+    <li>Recommend items to users based on predicted ratings and item similarity</li>
+    <li>Diagnose a real-life recommendation system</li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Videos</li>
+    <li>Knowledge Checks</li>
+    <li>Try-It Activities</li>
+    <li>Codio Activities</li>
+    <li>Module Quiz</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 20: <span>Capstone - Part 1</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li>Perform a deep analysis of your identified problem</li>
+    <li>Develop an executive brief detailing your technical findings</li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Capstone Question Research</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 21: <span>Ensemble Techniques</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li aria-level="1"><span>Relate the concepts of bias and variance to real-world examples</span></li>
+    <li aria-level="1"><span>Build a metamodel for classification and regression problems</span></li>
+    <li aria-level="1"><span>Evaluate the performance of various metamodels</span></li>
+    <li aria-level="1"><span>Implement bootstrapping on a dataset</span></li>
+    <li aria-level="1"><span>Implement bagging on a metamodel</span></li>
+    <li aria-level="1"><span>Apply out-of-bag evaluation in scikit-learn</span></li>
+    <li aria-level="1"><span>Design random forests for classification and regression problems</span></li>
+    <li aria-level="1"><span>Implement the AdaBoost algorithm</span></li>
+    <li aria-level="1"><span>Compare the AdaBoost algorithm with gradient boosted trees</span></li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Videos</li>
+    <li>Knowledge Checks</li>
+    <li>Try-It Activities</li>
+    <li>Codio Activities</li>
+    <li>Module Quiz</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 22: <span>Deep Neural Networks 1</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li aria-level="1"><span>Compute the output of a neural network given parameters and data</span></li>
+    <li aria-level="1"><span>Train a simple neural network</span></li>
+    <li aria-level="1"><span>Use Keras to create, compile, fit, and evaluate a model</span></li>
+    <li aria-level="1"><span>Select the appropriate output layer and loss function for multiclass classification</span></li>
+    <li aria-level="1"><span>Adjust hyperparameters and model architecture to maximize model generalizability</span></li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Videos</li>
+    <li>Knowledge Checks</li>
+    <li>Try-It Activities</li>
+    <li>Codio Activities</li>
+    <li>Module Quiz</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 23: <span>Deep Neural Networks 2</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li aria-level="1"><span>Process images in preparation for training a neural network</span></li>
+    <li aria-level="1"><span>Train a neural network to recognize items and images</span></li>
+    <li aria-level="1"><span>Use a pretrained network to enhance model performance</span></li>
+    <li aria-level="1"><span>Interpret a neural network model</span></li>
+    <li aria-level="1"><span>Train an LSTM network for time series analysis</span></li>
+    <li aria-level="1"><span>Compare an LSTM network to time series analysis</span></li>
+    <li aria-level="1"><span>Apply neural network techniques to a linear regression problem</span></li>
+    <li aria-level="1"><span>Compare neural networks to other machine learning methods</span></li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Videos</li>
+    <li>Knowledge Checks</li>
+    <li>Try-It Activities</li>
+    <li>Codio Activities</li>
+    <li>Module Quiz</li>
+    </ul>
+    </div>
+    </div>
+    <h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 24: <span>&nbsp;</span><span>Capstone - Part 2</span></span></span></strong></a></a></h3>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+    <p><strong>Learning Outcomes</strong></p>
+    <ul>
+    <li aria-level="1">Create non-technical documentation to present results</li>
+    </ul>
+    <p><strong>Key Activities</strong></p>
+    <div style="background-color: #efefef; color: black; padding: 20px;">
+    <ul>
+    <li>Capstone Question Research Conclusion</li>
+    <li>Business Presentation</li>
+    </ul>
+    </div>
+    </div>
+    <div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></div>
+    </div>
+    </div>

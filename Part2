@@ -1,0 +1,273 @@
+<div id="kl_panel_13_content" class="kl_panel_content kl_panel_13 ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>(Part 2) Machine Learning and AI Techniques</strong></p>
+<div class="kl_panels_wrapper kl_panels_accordion ui-accordion ui-widget ui-helper-reset" id="kl_accordion_1" role="tablist">
+<h3 id="kl_panel_8" class="kl_panel_heading kl_panel_8 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_8_content" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_8"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_8"><span style="font-size: 12pt;"><strong><span style="color: #ffffff;">Module 6: Data Clustering and Principal Component Analysis (PCA)</span></strong></span></a></a></h3>
+<div id="kl_panel_8_content" class="kl_panel_content kl_panel_8 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_8" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Apply SVD to a specific dataset</span></li>
+<li aria-level="1"><span>Analyze the results of PCA in a specific context</span></li>
+<li aria-level="1"><span>Plot and interpret singular values (scree plot)</span></li>
+<li aria-level="1"><span>Select r for a desired level of variance capture</span></li>
+<li aria-level="1"><span>Create the k-means algorithm in Python</span></li>
+<li aria-level="1"><span>Apply the k-means function in Python</span></li>
+<li aria-level="1"><span>Interpret the results of k-means and PCA given an initial dataset</span></li>
+<li aria-level="1"><span>Utilize scikit-learn to conduct k-means clustering</span></li>
+<li aria-level="1"><span>Compare the two different ways of initializing centroids (k-means++ vs. random initialization)</span></li>
+<li aria-level="1"><span>Compare the results of multiple clustering techniques on a given dataset</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_21" class="kl_panel_heading kl_panel_21  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_21_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_21"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_21"><strong><span style="font-size: 12pt; color: #ffffff;">Module 7: <span>Linear and Multiple Regressions</span></span></strong></a></a></h3>
+<div id="kl_panel_21_content" class="kl_panel_content kl_panel_21 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_21" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Differentiate between linear and nonlinear models</span></li>
+<li aria-level="1"><span>Fit a simple linear regression line using Plotly</span></li>
+<li aria-level="1"><span>Compute the squared error and absolute error&nbsp;</span></li>
+<li aria-level="1"><span>Recognize how loss functions react to outliers</span></li>
+<li aria-level="1"><span>Apply multiple techniques to minimize a loss function&nbsp;</span></li>
+<li aria-level="1"><span>Predict outcomes using a multiple linear regression model</span></li>
+<li aria-level="1"><span>Recognize ordinal, nominal, and categorical data within a dataset</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_21" class="kl_panel_heading kl_panel_21 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_21_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_21"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_21"><strong><span style="font-size: 12pt; color: #ffffff;">Module 8: <span>Feature Engineering and Overfitting</span></span></strong></a></a></h3>
+<div id="kl_panel_21_content" class="kl_panel_content kl_panel_21 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_21" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1">Generate nonlinear features for use by a linear model</li>
+<li aria-level="1">Describe the difference between inference and prediction</li>
+<li aria-level="1">Describe the relationship between training error and complexity</li>
+<li aria-level="1">Evaluate the sensitivity of a model</li>
+<li aria-level="1">Use a validation set for model selection to avoid overfitting</li>
+<li aria-level="1">Use a test set for final model evaluation</li>
+<li aria-level="1">Create and evaluate a linear regression model with nonlinear features using scikit-learn</li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_22" class="kl_panel_heading kl_panel_22 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_22_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_22"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_22"><span><strong><span style="color: #ffffff; font-size: 12pt;">Module 9: Model Selection and Regularization</span></strong></span></a></a></h3>
+<div id="kl_panel_22_content" class="kl_panel_content kl_panel_22 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_22" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1">Compare the use of polynomial features on one-dimensional and multidimensional data</li>
+<li aria-level="1">Use sequential feature selection to explore model complexity</li>
+<li aria-level="1">Use regularization as an alternate approach to controlling model complexity</li>
+<li aria-level="1">Scale data using standardization to avoid over-penalizing features in a regularized model</li>
+<li aria-level="1">Apply GridSearchCV to automate hyperparameter selection</li>
+<li aria-level="1">Select features using ridge regularization, LASSO regularization, and sequential feature selection</li>
+<li aria-level="1">Evaluate the differences between leave-one-out cross-validation, k-fold cross-validation, and holdout cross-validation</li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_23" class="kl_panel_heading kl_panel_23 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_23_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_23"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_23"><span style="color: #ffffff;"><strong><span style="font-size: 12pt;">Module 10: <span>Time Series Analysis and Forecasting</span></span></strong></span></a></a></h3>
+<div id="kl_panel_23_content" class="kl_panel_content kl_panel_23 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_23" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Compute performance metrics for various forecasts</span></li>
+<li aria-level="1"><span>Compute the sample autocorrelation and partial autocorrelation functions for a time series</span></li>
+<li aria-level="1"><span>Construct a model using classical time series decomposition</span></li>
+<li aria-level="1"><span>Perform forecasts with the classical time series decomposition model&nbsp;</span></li>
+<li aria-level="1"><span>Test the stationarity of residuals using the augmented Dickey-Fuller test</span></li>
+<li aria-level="1"><span>Interpret a forecast and its uncertainty using error bars</span></li>
+<li aria-level="1"><span>Differentiate between key characteristics of the autoregressive model and moving average model</span></li>
+<li aria-level="1"><span>Determine the invertibility and stationarity of an ARMA model</span></li>
+<li aria-level="1"><span>Use the ACF and PACF to select the orders of an ARMA model</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_24" class="kl_panel_heading kl_panel_24 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_24_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_24"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_24"><strong><span style="font-size: 12pt; color: #ffffff;">Module 11: <span>Practical Application 2</span></span></strong></a></a></h3>
+<div id="kl_panel_24_content" class="kl_panel_content kl_panel_24 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_24" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li><span>Apply the CRISP-DM framework to a business problem<br></span></li>
+<li><span>Develop a capstone question</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Practical Application Problem</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_25" class="kl_panel_heading kl_panel_25 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_25_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_25"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_25"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 12: <span>Classification and K-Nearest Neighbors</span></span></span></strong></a></a></h3>
+<div id="kl_panel_25_content" class="kl_panel_content kl_panel_25 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_25" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1">Differentiate between regression, classification, clustering, and time series analysis problems</li>
+<li aria-level="1">Train a nearest neighbor classifier</li>
+<li aria-level="1">Create a visualization of KNN decision boundaries as a function of k and T (threshold)</li>
+<li aria-level="1">Assess the tradeoffs between classifier metrics</li>
+<li aria-level="1">Use cross-validation to pick hyperparameters that optimize the metric of your choosing</li>
+<li aria-level="1">Compare the accuracy and interpretability of a properly trained linear regression and a KNN regression model</li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_32" class="kl_panel_heading kl_panel_32  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_32_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_32"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_32"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 13: <span>Logistic Regression</span></span></span></strong></a></a></h3>
+<div id="kl_panel_32_content" class="kl_panel_content kl_panel_32 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_32" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1">Analyze the characteristics and advantages of logistic regression&nbsp;</li>
+<li>Evaluate the cross-entropy for a range of parameters</li>
+<li>Use the scikit-learn framework to solve a basic logistic regression problem</li>
+<li>Assess multiple models using performance metrics</li>
+<li>Use L1 regularization to select features</li>
+<li><span>Apply logistic regression to generate multiclass outputs</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_32" class="kl_panel_heading kl_panel_32  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_32_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_32"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_32"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 14: <span>Decision Trees</span></span></span></strong></a></a></h3>
+<div id="kl_panel_32_content" class="kl_panel_content kl_panel_32 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_32" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1">Build a decision tree manually</li>
+<li aria-level="1">Train a decision tree model with desired hyperparameters using scikit-learn</li>
+<li aria-level="1">Visualize a decision tree</li>
+<li aria-level="1">Evaluate overfitting of decision trees</li>
+<li aria-level="1">Evaluate decision tree splits</li>
+<li aria-level="1">Implement the decision tree algorithm</li>
+<li aria-level="1">Compare the performance of different grid search algorithms</li>
+</ul>
+<p><strong>Key Activities</strong><strong></strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_33" class="kl_panel_heading kl_panel_33  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_33_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_33"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_33"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 15: <span>Gradient Descent and Optimization</span></span></span></strong></a></a></h3>
+<div id="kl_panel_33_content" class="kl_panel_content kl_panel_33 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_33" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Compute x and/or y for each iteration of gradient descent</span></li>
+<li aria-level="1"><span>Explain how learning rate and starting guess affect the convergence of gradient descent</span></li>
+<li aria-level="1"><span>Optimize a single-parameter linear regression model from scratch&nbsp;</span></li>
+<li aria-level="1"><span>Recognize convex one-dimensional and two-dimensional functions</span></li>
+<li aria-level="1"><span>Compute the gradient of a two-dimensional function</span></li>
+<li aria-level="1"><span>Use gradient descent to optimize a nonlinear two-dimensional regression model</span></li>
+<li aria-level="1"><span>Use stochastic gradient descent to optimize a nonlinear two-dimensional regression model</span></li>
+<li aria-level="1"><span>Compare the convergence behavior of gradient descent with stochastic gradient descent</span></li>
+<li aria-level="1"><span>Identify the degrees of bias and variance in a model</span></li>
+<li aria-level="1"><span>Identify the relationship between bias, variance, and model complexity</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 16: <span>Support Vector Machines (SVMs)</span></span></span></strong></a></a></h3>
+<div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Generate nonlinear features in a dataset</span></li>
+<li aria-level="1"><span>Compare classification models to assess boundary definitions</span></li>
+<li aria-level="1"><span>Apply kernels to logistic regression models to automatically build nonlinear boundaries</span></li>
+<li aria-level="1"><span>Compare large- and small-margin classifiers</span></li>
+<li aria-level="1"><span>Calculate the maximum margin given a dataset</span></li>
+<li aria-level="1"><span>Create maximum margin classifier visualizations in scikit-learn</span></li>
+<li aria-level="1"><span>Tune kernel and regularization parameters given a dataset</span></li>
+<li aria-level="1"><span>Apply SVMs to a personally sourced dataset</span></li>
+<li aria-level="1"><span>Discuss the results and tradeoffs of various techniques</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Videos</li>
+<li>Knowledge Checks</li>
+<li>Try-It Activities</li>
+<li>Codio Activities</li>
+<li>Module Quiz</li>
+</ul>
+</div>
+</div>
+<h3 id="kl_panel_34" class="kl_panel_heading kl_panel_34  ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" style="border-color: #15284b; background: #15284b;" role="tab" aria-controls="kl_panel_34_content" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#kl_panel_34"><strong><span style="font-size: 12pt;"><span style="color: #ffffff;">Module 17: <span>Practical Application 3</span></span></span></strong></a></a></h3>
+<div id="kl_panel_34_content" class="kl_panel_content kl_panel_34 ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" aria-labelledby="kl_panel_34" role="tabpanel" aria-hidden="true" style="display: none;">
+<p><strong>Learning Outcomes</strong></p>
+<ul>
+<li aria-level="1"><span>Apply various classification methods to a business problem</span></li>
+<li aria-level="1"><span>Compare the results of k-nearest neighbors, logistic regression, decision trees, and support vector machines</span></li>
+<li aria-level="1"><span>Develop a problem statement that includes a research question, expected data sources and structure, expected results, and expected techniques</span></li>
+</ul>
+<p><strong>Key Activities</strong></p>
+<div style="background-color: #efefef; color: black; padding: 20px;">
+<ul>
+<li>Practical Application Problem</li>
+</ul>
+</div>
+</div>
+<div id="kl_panel_26_content" class="kl_panel_content kl_panel_26 ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span></div>
+</div>
+</div>
